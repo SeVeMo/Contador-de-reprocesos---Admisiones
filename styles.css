@@ -1,0 +1,67 @@
+#popupButton {
+    padding: 10px 20px;
+    background-color: #009f91;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  #popupButton:hover {
+    background-color: #007770;
+  }
+  
+  #counter {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #009f91;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .popupMenu {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .popupMenu select {
+    margin-right: 10px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .popupMenu button {
+    padding: 8px 16px;
+    background-color: #009f91;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .popupMenu button:hover {
+    background-color: #007770;
+  }
+  
+  #clickedOptions {
+    margin-top: 20px;
+  }
+  
+  #clickedOptions p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #009f91;
+  }
+  
+    
+  
